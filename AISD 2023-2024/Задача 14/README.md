@@ -28,7 +28,4 @@
 3
 18
 ```
-
-<p align="center">
-![logo](https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN-199x250.png "Raspberry pi")
-</p>
+![image](https://github.com/dulcean/Algorithms-BSU-4-sem/assets/54591485/eae3c539-9c98-4493-bdf4-e76b91f2593d)
